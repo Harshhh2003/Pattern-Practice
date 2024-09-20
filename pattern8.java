@@ -9,7 +9,7 @@ public class pattern8 {
 
         for (int i = 1; i <= r; i++) {
             // Print leading spaces
-            for (int j = i; j < r; j++) {
+            for (int j = i; j <= r; j++) {
                 System.out.print(" ");
             }
 
